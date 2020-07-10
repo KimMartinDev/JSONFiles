@@ -1,0 +1,398 @@
+[
+  {
+  	"id": 0,
+  	"joke": "Where do sheep go to get their hair cut?", 
+  	"punchline": "To the baa-baa shop!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 1, 
+  	"joke": "What is a pirate’s favorite letter?",
+  	"punchline": "Aaarrr!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 2, 
+  	"joke": "Why are leopards so bad at playing hide and seek?",
+  	"punchline": "Because they’re always spotted!",
+  	"type": "normal"
+  },
+  {
+  	"id": 3, 
+  	"joke": "Why did the banana go to the doctor?",
+  	"punchline": "Because he wasn’t peeling very well!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 4, 
+  	"joke": "What kind of button can you not undo?",
+  	"punchline": "A belly button!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 5, 
+  	"joke": "What kind of keys can’t open locks?",
+  	"punchline": "Monkeys! (or donkeys or turkeys!)",
+  	"type": "normal" 
+  },
+  {
+  	"id": 6, 
+  	"joke": "Juno",
+  	"punchline": "Juno how to open this door? It’s stuck!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 7, 
+  	"joke": "Ivana",
+  	"punchline": "Ivana come in, please open the door!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 8, 
+  	"joke": "What kind of witch do you find at the beach?",
+  	"punchline": "A SANDwich!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 9, 
+  	"joke": "What keeps rock stars cool?",
+  	"punchline": "Their fans!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 10, 
+  	"joke": "Where do cows like to go on the weekend?",
+  	"punchline": "To the MOOvies!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 11, 
+  	"joke": "Why did the scarecrow win an award?",
+  	"punchline": "Because he was the best in his field!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 12, 
+  	"joke": "Europe",
+  	"punchline": "No, you're a poo!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 13, 
+  	"joke": "Doris",
+  	"punchline": "Doris locked! Please let me in!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 14, 
+  	"joke": "What do you call a sleeping bull?",
+  	"punchline": "A bull dozer!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 15, 
+  	"joke": "Ken",
+  	"punchline": "Ken I come in? It’s raining out here!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 16, 
+  	"joke": "What time is it when an elephant sits on your fence?",
+  	"punchline": "Time to get a new one!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 17, 
+  	"joke": "What type of dog can tell the time?",
+  	"punchline": "A watch dog!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 18, 
+  	"joke": "What do you call an alligator wearing a vest?",
+  	"punchline": "An inVESTigator!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 19, 
+  	"joke": "What kind of nut has no shell?",
+  	"punchline": "A doughnut!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 20, 
+  	"joke": "Why are fish so smart?",
+  	"punchline": "Because they live in schools!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 21,
+  	"joke": "Pizza", 
+  	"punchline": "Pizza really great guy!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 22, 
+  	"joke": "Why did the burglar take a bath?",
+  	"punchline": "Because he wanted to make a clean getaway!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 23, 
+  	"joke": "Little old lady",
+  	"punchline": "Hey, I didn’t know you could yodel!",
+  	"type": "knock"
+  },
+  {
+  	"id": 24, 
+  	"joke": "Lettuce",
+  	"punchline": "Lettuce in, it’s freezing out here!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 25, 
+  	"joke": "What kind of beans don’t grow in the garden?",
+  	"punchline": "Jelly beans!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 26, 
+  	"joke": "What do pigs use to write a letter?",
+  	"punchline": "A pigPEN!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 27, 
+  	"joke": "What runs but cannot walk?",
+  	"punchline": "A river!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 28, 
+  	"joke": "What piece of wood is like a king?",
+  	"punchline": "A ruler!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 29, 
+  	"joke": "What kind of fish is famous?",
+  	"punchline": "A STAR fish!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 30, 
+  	"joke": "How did the ocean say goodbye?",
+  	"punchline": "It waved!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 31, 
+  	"joke": "What has teeth but does not bite?",
+  	"punchline": "A zipper!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 32, 
+  	"joke": "What do you call a dinosaur with only one eye?",
+  	"punchline": "A Do-you-think-he-saw-us!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 33, 
+  	"joke": "Why was the teacher cross eyed?",
+  	"punchline": "Because he couldn’t control his pupils!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 34, 
+  	"joke": "Cows go",
+  	"punchline": "No, silly. Cows go 'moo!'",
+  	"type": "knock" 
+  },
+  {
+  	"id": 35, 
+  	"joke": "What do you get when you cross a snowman and a vampire?",
+  	"punchline": "Frostbite!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 36, 
+  	"joke": "Where do pencils go for vacation?",
+  	"punchline": "Pencil-vania!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 37, 
+  	"joke": "Why couldn't the pony sing himself a lullaby?",
+  	"punchline": "He was a little hoarse!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 38, 
+  	"joke": "What kind of lion never roars?",
+  	"punchline": "A dandelion!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 39, 
+  	"joke": "Why do bananas have to put on sunscreen before they go to the beach?",
+  	"punchline": "Because they might peel!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 40, 
+  	"joke": "What do you call a cow on a trampoline?",
+  	"punchline": "A milk shake!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 41, 
+  	"joke": "Ketchup",
+  	"punchline": "Ketchup with me and I’ll tell you!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 42,
+  	"joke": "Orange", 
+  	"punchline": "Orange you going to answer the door?",
+  	"type": "knock" 
+  },
+  {
+  	"id": 43, 
+  	"joke": "Alpaca",
+  	"punchline": "Alpaca the trunk, you pack the suitcase!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 44, 
+  	"joke": "Some bunny",
+  	"punchline": "Some bunny has been eating all my carrots!",
+  	"type": "knock"
+  },
+  {
+  	"id": 45, 
+  	"joke": "Atch",
+  	"punchline": "Bless you!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 46, 
+  	"joke": "Cash",
+  	"punchline": "No thanks, but I’ll take a peanut if you have one!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 47, 
+  	"joke": "Howl",
+  	"punchline": "Howl you know it’s really me unless you open the door?",
+  	"type": "knock" 
+  },
+  {
+  	"id": 48, 
+  	"joke": "Tank",
+  	"punchline": "You’re welcome!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 49, 
+  	"joke": "A broken pencil",
+  	"punchline": "Oh never mind it’s pointless.",
+  	"type": "knock" 
+  },
+  {
+  	"id": 50, 
+  	"joke": "Ya",
+  	"punchline": "Wow, I’m excited to see you too!",
+  	"type": "knock" 
+  },
+  {
+  	"id": 51, 
+  	"joke": "Why did the dinosaur cross the road?",
+  	"punchline": "Because the chicken wasn’t born yet!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 52, 
+  	"joke": "What did the nose say to the finger?",
+  	"punchline": "Quit picking on me!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 53, 
+  	"joke": "Why didn’t the skeleton go to the dance?",
+  	"punchline": "He had no body to dance with!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 54, 
+  	"joke": "What stays in the corner yet can travel all over the world?",
+  	"punchline": "A stamp!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 55, 
+  	"joke": "How do you fix a cracked pumpkin?",
+  	"punchline": "With a pumpkin patch!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 56, 
+  	"joke": "What kind of award did the dentist receive?",
+  	"punchline": "A little plaque!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 57, 
+  	"joke": "Why are ghosts bad liars?",
+  	"punchline": "Because you can see right through them!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 58, 
+  	"joke": "Why do bees have sticky hair?",
+  	"punchline": "Because they use a honeycomb!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 59, 
+  	"joke": "Why was the picture sent to jail?",
+  	"punchline": "It was framed!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 60, 
+  	"joke": "What sound do porcupines make when they hug?",
+  	"punchline": "Ouch!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 61, 
+  	"joke": "Why do ducks make great detectives?",
+  	"punchline": "They always quack the case!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 62, 
+  	"joke": "What do lawyers wear to court?",
+  	"punchline": "Lawsuits!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 63, 
+  	"joke": "What is black, white and green all over?",
+  	"punchline": "A pickle in a tuxedo!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 64, 
+  	"joke": "What do you call an old snowman?",
+  	"punchline": "Water!",
+  	"type": "normal" 
+  },
+  {
+  	"id": 65, 
+  	"joke": "Why didn’t the orange win the race?",
+  	"punchline": "It ran out of juice!",
+  	"type": "normal" 
+  }
+]
